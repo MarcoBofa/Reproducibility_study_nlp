@@ -1,0 +1,86 @@
+WORD1 WORD2 POS TYPE AVG_SCORE AVG_SCORE_0_10 STD SCORES..
+queen royalty N mero 5.93 9.88 0.26 6 6 6 6 6 6 6 6 5 6 6 6 6 6
+limousine car N hyp-1 5.93 9.88 0.26 6 5 6 6 6 6 6 6 6 6 6 6 6 6
+crowd group N hyp-3 5.14 8.57 1.41 6 6 4 6 6 6 6 6 4 5 4 6 1 6
+mayor person N hyp-3 4.00 6.67 1.62 3 6 2 6 1 4 6 3 3 4 3 5 6
+date appointment N mero 4.67 7.78 1.60 6 5 6 3 6 5 5 5 5 5 0 5
+bride wedding N mero 0.80 1.33 1.17 0 0 0 1 0 1 0 4 1 1
+keyboard typewriter N mero 2.86 4.77 1.73 3 4 2 4 6 4 0 2 5 4 2 3 1 0
+politician senator N r-hyp-2 1.78 2.97 2.44 0 6 0 3 1 0 0 6 0
+wing airplane N mero 0.62 1.03 0.92 0 1 1 0 2 0 0 0 0 1 0 3 0
+munch chew V hyp-1 4.18 6.97 1.99 6 2 6 5 3 6 0 6 5 5 2
+chemistry science N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+plane craft N hyp-3 5.44 9.07 0.83 6 4 6 4 6 5 6 6 6
+ballerina dancer N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+rape crime N hyp-3 5.90 9.83 0.30 6 6 6 5 6 6 6 6 6 6
+country region N hyp-3 2.40 4.0 2.54 0 5 0 6 6 3 0 0 4 0
+autumn season N hyp-1 5.86 9.77 0.35 6 6 6 6 5 6 6
+acknowledge ignore V ant 0.50 0.83 0.92 0 0 3 0 0 0 1 1 0 0
+blow strike V cohyp 3.58 5.97 1.71 6 4 4 3 6 5 3 4 0 1 4 3
+bucket barrel N cohyp 2.14 3.57 1.64 5 0 2 0 3 3 2
+captain officer N hyp-3 4.93 8.22 1.10 6 5 6 2 4 5 5 4 5 4 5 6 6 6
+turkey bird N hyp-3 5.83 9.72 0.55 4 6 6 6 6 6 6 6 6 6 6 6
+leadership layer N no-rel 0.27 0.45 0.62 1 2 0 0 0 0 0 0 0 0 0
+snake weakness N no-rel 1.08 1.8 1.49 0 1 2 1 2 0 0 0 3 0 5 0 0
+migraine pain N hyp-3 5.42 9.03 1.11 6 5 6 6 6 3 6 6 6 6 6 3
+parent relation N hyp-4 5.56 9.27 0.68 6 6 6 4 6 5 6 6 5
+hamburger bird N no-rel 0.09 0.15 0.29 0 1 0 0 0 0 0 0 0 0 0
+letter sign N hyp-4 1.09 1.82 1.38 2 2 1 0 0 0 0 0 3 4 0
+disease cancer N r-hyp-3 0.85 1.42 0.95 0 1 1 0 0 2 3 1 2 0 0 0 1
+hamburger food N hyp-4 5.85 9.75 0.53 6 6 4 6 6 6 6 6 6 6 6 6 6
+automobile vehicle N hyp-4 5.75 9.58 0.43 5 6 6 5 6 5 6 6 6 6 6 6
+goose animal N hyp-4 5.85 9.75 0.53 6 6 6 6 6 6 6 4 6 6 6 6 6
+delay show V no-rel 0.09 0.15 0.29 0 0 0 0 0 0 0 0 0 1 0
+do be V hyp-4 1.75 2.92 2.05 3 6 4 1 0 4 0 0 0 0 0 3
+letter alphabet N mero 2.45 4.08 2.43 3 6 0 1 0 6 6 2 3 0 0
+prism pyramid N cohyp 3.38 5.63 2.10 6 1 4 4 1 2 5 1 6 3 5 0 6
+author creator N hyp-2 5.50 9.17 0.76 5 4 6 6 6 6 5 6 6 6 4 6
+kid parent N ant 0.31 0.52 0.61 2 0 1 0 0 0 0 0 0 0 0 0 1
+skyscraper building N hyp-1 5.92 9.87 0.28 6 6 6 6 6 6 6 6 6 6 6 5
+worker farmer N r-hyp-3 1.30 2.17 1.49 5 0 1 1 3 0 1 1 0 1
+mug cup N cohyp 5.58 9.3 0.86 5 6 6 6 6 5 6 6 6 6 6 3
+milk liquid N hyp-2 5.92 9.87 0.27 6 6 6 6 6 6 6 6 6 6 6 5 6
+oak necklace N no-rel 0.15 0.25 0.53 0 0 0 0 0 2 0 0 0 0 0 0 0
+prince royalty N mero 5.91 9.85 0.29 6 6 6 6 6 6 6 6 6 6 5
+spouse marriage N mero 1.38 2.3 1.64 0 5 4 1 2 2 0 0 0 0 1 0 3
+fluid keyboard N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0
+animal message N no-rel 0.18 0.3 0.39 0 1 0 0 0 0 0 0 0 1 0
+day week N cohyp 0.75 1.25 1.79 0 0 0 0 0 0 6 3 0 0 0 0
+celery food N hyp-3 5.58 9.3 0.86 6 6 6 6 6 6 6 5 3 6 5 6
+kiwi fruit N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+horn bull N mero 0.67 1.12 0.94 0 3 0 1 1 0 0 0 1
+newspaper medium N hyp-3 4.08 6.8 1.59 3 3 4 3 5 4 4 5 6 6 0 4 6
+writing story N r-hyp-3 2.46 4.1 2.06 6 2 0 2 0 3 6 1 1 3 0 3 5
+detail point N syn 2.33 3.88 1.80 5 2 2 0 4 1 6 2 1 3 2 0
+adverb word N hyp-3 5.25 8.75 1.16 6 5 6 3 6 4 6 6 6 3 6 6
+princess royalty N mero 5.38 8.97 1.00 6 3 6 6 6 4 6 5 6 6 6 6 4
+building cathedral N r-hyp-3 0.38 0.63 0.62 0 1 1 0 0 0 0 0 1 0 0 2 0
+assume think V cohyp 4.38 7.3 1.15 4 3 3 5 5 4 6 2 5 6 5 4 5
+direct aim V hyp-1 3.40 5.67 1.96 1 3 6 5 0 6 2 3 5 3
+number eight N r-hyp-3 0.64 1.07 0.77 0 2 0 0 0 1 1 0 0 2 1
+symbol letter N r-hyp-3 1.54 2.57 1.95 0 0 2 6 0 1 0 5 0 1 2 3 0
+show tell V hyp-3 2.64 4.4 1.92 4 4 0 3 0 4 6 2 4 0 2
+water substance N hyp-4 4.55 7.58 1.83 6 6 4 6 1 5 1 4 6 6 5
+blaze flame N hyp-1 2.50 4.17 2.11 5 4 1 6 3 0 2 0 4 0
+ear employee N no-rel 0.45 0.75 1.16 0 4 0 1 0 0 0 0 0 0 0
+hurt upset V hyp-1 4.33 7.22 1.31 6 1 5 6 5 4 5 3 5 4 4 4
+coach carriage N syn 3.86 6.43 2.07 6 6 2 6 4 4 6 0 0 4 6 4 2 4
+kite bird N hyp-3 2.92 4.87 2.67 0 6 0 0 3 5 0 6 1 6 0 5 6
+puberty period N hyp-2 3.30 5.5 1.95 2 4 3 4 4 5 5 0 6 0
+acid shell N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0 0
+discipline punishment N hyp-1 4.62 7.7 1.69 6 4 6 6 6 4 4 6 4 3 6 0 5
+erupt explode V hyp-1 4.69 7.82 1.26 5 6 5 5 2 6 5 4 5 5 5 6 2
+milk butter N cohyp 1.31 2.18 1.64 1 0 2 6 1 3 0 0 2 1 0 0 1
+green blue N cohyp 0.73 1.22 0.96 3 2 1 0 0 0 0 0 1 0 1
+food barley N r-hyp-3 1.23 2.05 1.93 2 0 1 0 1 0 6 0 0 5 0 0 1
+hurt insult V r-hyp-1 3.92 6.53 1.54 0 3 5 5 4 5 4 2 4 6 5 5 3
+spine backbone N syn 4.64 7.73 1.87 5 0 6 5 2 6 6 5 4 6 6
+worker mechanic N r-hyp-3 1.31 2.18 1.43 0 2 3 3 1 3 0 0 0 1 0 0 4
+hitchhike travel V hyp-3 4.00 6.67 2.04 6 6 5 6 4 4 4 2 6 1 0
+mitten glove N hyp-1 4.08 6.8 2.25 6 0 3 4 6 0 4 6 2 6 6 6
+creature bug N r-hyp-4 2.23 3.72 2.08 3 0 3 0 6 4 2 0 6 1 3 1 0
+range stove N syn 3.62 6.03 2.10 5 3 6 6 5 2 6 3 6 3 0 1 1
+plaque memorial N hyp-1 4.33 7.22 1.03 5 3 3 4 6 5 5 4 6 4 4 3
+illness health N ant 1.92 3.2 2.22 1 0 6 0 6 2 4 3 1 0 0 0
+deteriorate forget V no-rel 2.31 3.85 1.59 4 0 0 0 3 1 3 4 4 1 3 4 3
+bother affect V hyp-1 4.17 6.95 1.82 5 5 3 6 6 3 6 1 6 3 5 1

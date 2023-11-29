@@ -1,0 +1,454 @@
+WORD1 WORD2 POS TYPE AVG_SCORE AVG_SCORE_0_10 STD SCORES..
+advance take V no-rel 1.42 2.37 1.66 3 0 3 0 0 5 0 0 1 2 3 0
+trail follow V hyp-2 4.31 7.18 1.86 4 4 6 2 6 6 6 3 0 4 3 6 6
+swing push V cohyp 1.83 3.05 1.46 1 0 0 2 2 1 5 1 1 4 3 2
+evict move V hyp-3 2.77 4.62 1.93 2 4 6 1 5 4 0 4 0 2 1 5 2
+defrost thaw V hyp-1 4.62 7.7 1.60 6 4 5 3 6 5 6 6 5 4 0 5 5
+rise fall V ant 0.31 0.52 0.72 0 0 0 0 0 2 0 0 0 0 0 0 2
+yell speak V hyp-2 5.30 8.83 1.19 3 6 6 3 6 6 5 6 6 6
+deny crush V no-rel 1.31 2.18 1.43 0 0 0 4 3 1 2 1 0 3 0 3 0
+gain get V hyp-1 4.62 7.7 1.78 0 5 6 5 6 5 6 3 6 6 5 5 2
+annoy tease V r-hyp-3 3.70 6.17 2.15 2 5 2 6 4 6 0 1 5 6
+swim sink V ant 0.64 1.07 1.07 0 0 2 2 0 0 0 0 3 0 0
+rearrange organize V cohyp 5.00 8.33 0.96 6 5 5 6 6 4 4 6 5 6 4 3 5
+add calculate V hyp-1 5.23 8.72 1.05 4 4 3 6 4 5 6 6 6 6 6 6 6
+disguise hide V hyp-1 5.00 8.33 1.18 6 5 4 6 6 3 3 6 6 5
+instruct inform V hyp-1 4.31 7.18 1.54 5 6 1 2 6 5 6 4 3 4 6 4 4
+pick select V hyp-1 4.80 8.0 2.18 6 6 5 6 6 6 0 1 6 6
+talk communicate V hyp-1 5.55 9.25 0.99 6 6 3 6 6 4 6 6 6 6 6
+wait hesitate V r-hyp-2 3.60 6.0 2.06 4 6 2 6 3 6 0 1 5 3
+snatch grab V cohyp 5.36 8.93 0.72 5 6 5 5 6 5 6 6 6 4 5 6 6 4
+promise climb V no-rel 0.08 0.13 0.28 1 0 0 0 0 0 0 0 0 0 0 0
+tease perform V no-rel 1.75 2.92 2.05 2 1 6 2 0 0 1 6 0 0 2 1
+analyze waste V no-rel 0.42 0.7 0.49 1 1 1 0 0 0 1 0 0 0 1 0
+say claim V r-hyp-3 2.10 3.5 1.87 2 1 5 1 6 1 0 1 3 1
+recruit get V hyp-4 4.08 6.8 1.69 4 6 3 6 4 6 4 3 4 5 1 6 1
+select pick V r-hyp-1 4.85 8.08 1.51 2 6 5 2 6 3 6 6 4 6 6 6 5
+hurt upset V hyp-1 4.33 7.22 1.31 6 1 5 6 5 4 5 3 5 4 4 4
+depart arrive V ant 1.08 1.8 1.38 4 1 2 0 3 0 0 0 3 0 1 0 0
+desire attack V no-rel 0.43 0.72 0.73 0 0 0 2 1 0 2 0 0 0 1 0 0 0
+borrow lend V ant 1.77 2.95 2.12 3 0 0 2 6 3 0 0 0 0 4 0 5
+unite marry V r-hyp-1 3.85 6.42 1.61 4 1 6 4 5 4 3 5 5 1 6 2 4
+learn develop V r-hyp-1 3.92 6.53 1.82 4 6 4 5 6 2 4 2 5 2 5 0 6
+boil freeze V ant 0.30 0.5 0.64 2 0 0 0 0 0 1 0 0 0
+closing finish V hyp-1 4.67 7.78 1.75 5 6 6 6 3 3 6 5 0 5 6 5
+drag pull V hyp-1 4.62 7.7 1.08 6 4 5 3 6 5 3 3 6 4 5 5 5
+move sway V r-hyp-2 4.20 7.0 1.47 4 6 5 6 3 3 5 4 1 5
+compound mix V r-hyp-1 3.00 5.0 1.41 3 5 1 4 1 3 5 1 4 3 3
+pause run V no-rel 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+renounce change V hyp-4 3.86 6.43 2.10 6 3 6 1 5 6 0 4 6 5 4 3 0 5
+snap pop V cohyp 2.80 4.67 2.18 5 3 0 1 4 5 0 0 5 5
+remark slay V no-rel 0.64 1.07 1.15 0 1 0 0 0 3 0 0 0 3 0
+suppose think V hyp-3 5.42 9.03 0.95 5 6 6 6 4 6 6 5 6 6 6 3
+blow strike V cohyp 3.58 5.97 1.71 6 4 4 3 6 5 3 4 0 1 4 3
+fix attach V hyp-1 3.40 5.67 2.06 2 3 6 0 2 6 4 6 4 1
+defend protect V r-hyp-1 5.08 8.47 1.14 5 5 6 6 6 4 5 4 6 6 2 5 6
+integrate mix V hyp-2 5.50 9.17 0.87 6 6 6 5 6 5 6 6 6 5 6 3
+snatch take V hyp-2 5.15 8.58 1.41 6 4 5 4 6 6 6 6 1 5 6 6 6
+crush demolish V syn 5.00 8.33 1.15 6 6 5 5 3 6 3 4 6 4 6 6
+hustle move V hyp-1 4.60 7.67 1.91 5 6 1 6 6 6 5 1 4 6
+drift float V syn 2.73 4.55 1.71 4 4 1 5 0 2 3 0 3 3 5
+scribble write V hyp-1 4.91 8.18 1.00 5 5 5 5 5 6 3 6 3 6 5
+toss annoy V no-rel 0.36 0.6 1.15 0 0 0 0 0 0 4 0 0 0 0
+ponder think V hyp-1 5.64 9.4 0.61 6 6 5 6 6 5 6 6 6 4 5 6 6 6
+irritate spend V no-rel 0.31 0.52 0.61 0 0 1 0 2 0 0 0 0 1 0 0 0
+kidnap take V hyp-2 4.69 7.82 1.98 2 0 5 6 2 4 6 6 6 6 6 6 6
+draw create V hyp-2 5.27 8.78 1.05 6 5 6 4 3 6 6 6 6 4 6
+speak scream V r-hyp-2 1.60 2.67 1.36 2 3 3 0 3 0 2 3 0 0
+smash crush V syn 4.80 8.0 1.25 5 6 6 6 3 6 5 3 3 5
+discover find V syn 5.00 8.33 1.61 5 6 6 1 6 3 6 6 6 5
+divide obtain V no-rel 0.83 1.38 1.34 0 0 0 0 4 0 0 3 1 0 0 2
+swallow waste V no-rel 0.90 1.5 1.04 0 3 0 0 2 0 1 2 0 1
+wipe rub V hyp-1 4.08 6.8 1.93 3 6 6 6 4 4 6 5 0 5 3 1
+advance retreat V ant 1.00 1.67 1.48 0 2 0 1 1 0 0 0 2 5 0
+overwhelm defeat V hyp-2 2.85 4.75 1.56 3 4 4 3 5 0 2 2 5 0 2 4 3
+slay kill V hyp-1 5.55 9.25 0.89 6 6 3 6 6 5 6 6 6 6 5
+catch seize V hyp-1 3.00 5.0 2.19 4 4 2 6 4 5 0 0 5 0
+decline accept V ant 0.70 1.17 1.42 3 4 0 0 0 0 0 0 0 0
+toss throw V hyp-2 4.92 8.2 1.32 4 6 6 6 6 5 4 2 6 5 6 3
+shake sink V no-rel 0.31 0.52 0.82 0 0 1 0 3 0 0 0 0 0 0 0 0
+smash crash V cohyp 3.62 6.03 1.39 5 4 5 3 4 3 1 1 3 4 4 4 6
+nag complain V hyp-1 5.31 8.85 1.26 6 5 6 3 6 6 5 6 6 6 2 6 6
+glance look V hyp-1 5.08 8.47 1.21 6 6 6 4 2 6 6 4 6 5 5 6 4
+soothe comfort V syn 5.36 8.93 0.97 6 6 4 6 6 4 6 6 3 5 5 6 6 6
+remove move V hyp-2 3.69 6.15 1.68 5 0 3 2 3 6 4 4 5 5 3 6 2
+blush clarify V no-rel 0.20 0.33 0.40 0 0 1 0 0 0 0 1 0 0
+ascend rise V hyp-1 4.58 7.63 1.32 6 6 5 4 3 3 5 5 2 6 4 6
+gain burst V no-rel 0.69 1.15 0.82 0 1 0 1 0 2 0 2 0 0 0 2 1
+perform sing V r-hyp-2 2.64 4.4 2.10 0 0 3 2 3 5 1 0 4 6 5
+defeat renounce V hyp-4 1.25 2.08 1.88 1 4 0 0 0 0 6 2 0 0 0 2
+limp walk V hyp-1 4.40 7.33 1.74 6 6 6 5 6 2 1 5 3 4
+run jump V cohyp 0.71 1.18 1.03 1 0 0 0 0 3 1
+write talk V cohyp 1.58 2.63 1.61 2 1 6 0 1 1 2 2 0 0 3 1
+evaluate judge V hyp-1 4.36 7.27 1.72 6 1 6 5 3 6 5 3 6 2 5
+toss pause V no-rel 0.08 0.13 0.27 0 0 0 1 0 0 0 0 0 0 0 0 0
+sing perform V hyp-2 5.23 8.72 1.12 6 5 6 6 4 3 6 6 6 6 5 6 3
+save crash V no-rel 0.43 0.72 0.62 0 0 0 0 2 1 0 1 1 0 1 0 0 0
+wag move V hyp-3 4.08 6.8 1.94 6 5 5 1 5 6 6 2 6 4 3 4 0
+sob cry V hyp-1 5.56 9.27 0.68 6 6 6 4 6 5 5 6 6
+squeeze hold V hyp-3 5.00 8.33 1.21 6 6 6 6 4 3 3 4 6 5 6
+wed marry V syn 4.91 8.18 1.78 6 0 3 6 5 6 5 6 6 5 6
+smear smudge V syn 5.00 8.33 1.25 6 6 6 2 5 5 5 6 4
+advise talk V hyp-3 4.67 7.78 1.25 6 5 4 4 5 6 2 3 4 5 6 6
+go dismiss V r-hyp-4 1.43 2.38 1.76 1 0 0 0 5 3 1
+deny forget V hyp-4 1.50 2.5 1.19 2 0 0 1 1 0 1 2 4 2 3 2
+forget deny V r-hyp-4 1.62 2.7 1.21 2 0 2 1 4 0 2 3 1 3 0 2 1
+blow pop V cohyp 2.20 3.67 1.60 4 4 0 2 3 3 4 2 0 0
+accept allow V r-hyp-1 3.55 5.92 1.16 4 5 1 3 4 4 4 5 3 4 2
+drift move V hyp-1 5.15 8.58 1.35 6 5 6 5 6 1 6 6 6 5 5 6 4
+tease bother V hyp-3 4.42 7.37 1.66 4 6 6 3 0 5 5 3 5 5 6 5
+reap get V hyp-3 4.31 7.18 2.01 0 6 3 5 6 6 5 3 3 6 1 6 6
+talk address V r-hyp-4 4.00 6.67 1.96 0 4 6 6 2 1 6 3 5 6 5 5 3
+launch send V cohyp 3.64 6.07 1.49 3 6 1 6 3 2 3 3 4 4 5
+turn differ V no-rel 2.70 4.5 1.62 0 4 0 3 5 4 4 2 3 2
+purchase buy V syn 4.45 7.42 2.27 0 6 6 6 6 5 6 5 3 6 0
+attach connect V hyp-1 5.71 9.52 0.45 6 5 5 6 6 6 6
+sell acknowledge V no-rel 0.64 1.07 0.81 0 2 0 0 2 2 0 1 1 0 1 0 0 0
+pelt throw V hyp-1 4.67 7.78 1.11 4 5 3 6 6 5 4 4 6 4 6 3
+smear wipe V cohyp 4.10 6.83 1.51 5 3 5 6 3 4 3 1 5 6
+sit stand V ant 0.55 0.92 0.99 2 0 0 1 0 0 0 0 3 0 0
+deteriorate decay V hyp-1 4.62 7.7 1.50 2 5 6 4 5 4 5 5 6 5 6 1 6
+excuse pardon V syn 3.80 6.33 2.60 6 4 6 6 6 0 4 0 6 0
+punch hit V hyp-1 4.85 8.08 1.56 6 3 5 6 4 6 6 6 1 5 6 3 6
+come leave V cohyp 0.92 1.53 1.61 6 0 0 1 1 0 0 0 1 1 0 1
+attack assault V syn 4.77 7.95 1.93 5 6 6 5 6 6 6 4 6 6 5 0 1
+grasp crunch V no-rel 1.00 1.67 1.63 1 4 0 5 1 1 0 0 0 0 0 0
+disallow smear V no-rel 0.50 0.83 0.92 0 0 1 0 0 0 0 3 0 1
+move evict V r-hyp-3 2.46 4.1 1.99 6 1 6 0 0 1 3 4 0 3 2 3 3
+snatch catch V cohyp 3.31 5.52 1.77 4 1 4 3 4 5 5 3 5 5 0 0 4
+ascend climb V cohyp 4.38 7.3 1.86 0 5 6 4 5 4 4 6 6 4 6 1 6
+lounge sit V hyp-1 4.30 7.17 1.68 2 4 6 6 2 2 6 6 4 5
+sprinkle pour V cohyp 2.23 3.72 1.42 3 5 0 2 3 2 1 4 0 2 3 1 3
+construct make V hyp-1 5.00 8.33 1.35 6 2 4 6 3 6 5 6 6 5 6
+assume think V cohyp 4.38 7.3 1.15 4 3 3 5 5 4 6 2 5 6 5 4 5
+break crunch V r-hyp-4 3.75 6.25 1.96 4 6 0 3 6 3 5 5 0 3 5 5
+debate talk V hyp-2 4.69 7.82 0.91 6 5 6 6 3 4 4 5 5 4 4 4 5
+acknowledge accept V hyp-1 3.50 5.83 1.69 4 3 3 3 1 5 3 6 6 1
+suggest say V hyp-2 3.75 6.25 2.13 6 6 4 3 0 5 6 0 2 6 3 4
+marry join V hyp-2 3.55 5.92 2.23 6 0 2 2 0 4 6 6 4 6 3
+touch pat V r-hyp-2 3.73 6.22 2.26 6 0 5 6 5 5 1 0 3 6 4
+separate detach V r-hyp-2 4.42 7.37 1.71 6 6 5 5 1 5 6 6 1 4 4 4
+inspect examine V hyp-1 4.55 7.58 2.06 6 6 0 6 1 5 6 4 4 6 6
+move tow V r-hyp-4 2.08 3.47 2.09 4 0 6 2 1 0 0 1 1 2 5 0 5
+overwhelm overcome V syn 2.85 4.75 1.83 3 3 5 3 1 1 1 0 1 4 4 5 6
+scream speak V hyp-2 3.69 6.15 1.64 3 1 3 5 5 4 4 5 3 6 0 4 5
+beat defeat V hyp-1 4.62 7.7 1.82 0 5 6 5 6 6 6 3 4 6 2 5 6
+elect pick V cohyp 5.23 8.72 0.70 4 6 5 6 6 5 5 5 6 5 6 5 4
+suppose guess V syn 4.08 6.8 1.66 5 6 1 6 6 3 5 4 4 5 2 2
+create build V r-hyp-1 3.77 6.28 1.72 0 3 5 1 3 6 4 3 4 6 5 5 4
+forget diminish V no-rel 1.27 2.12 2.00 3 1 0 0 0 0 0 6 4 0 0
+grab take V hyp-2 4.50 7.5 1.50 6 2 4 2 6 6 4 4 6 3 5 6
+decay deteriorate V r-hyp-1 4.69 7.82 1.86 4 2 5 6 3 5 6 6 6 0 6 6 6
+assume presume V syn 3.27 5.45 1.60 4 5 5 4 5 2 1 3 4 3 0
+stink smell V hyp-2 4.50 7.5 1.86 4 6 6 3 4 4 0 6 6 6
+stew cook V hyp-1 5.57 9.28 0.82 6 6 5 6 6 5 3 6 6 6 6 6 6 5
+perform talk V no-rel 1.80 3.0 1.08 2 2 2 2 3 0 3 3 1 0
+knit weave V cohyp 3.92 6.53 1.75 6 1 5 1 2 6 3 4 4 4 5 6
+decompose decay V syn 5.33 8.88 1.18 2 6 6 6 6 6 5 6 6 4 5 6
+unite join V hyp-1 4.80 8.0 1.33 4 6 6 6 6 3 2 5 5 5
+make build V syn 5.09 8.48 0.90 5 6 4 6 6 4 6 4 4 5 6
+address talk V hyp-4 3.23 5.38 2.04 3 6 3 3 6 6 0 2 1 5 4 0 3
+deny reject V hyp-2 3.92 6.53 2.02 3 4 5 2 3 6 0 6 1 6 6 3 6
+understand evaluate V hyp-3 2.38 3.97 1.50 0 3 1 4 3 3 1 3 5 4 2 0 2
+reach construct V no-rel 0.40 0.67 0.66 0 1 0 0 2 1 0 0 0 0
+reduce shrink V syn 3.82 6.37 2.08 6 6 1 6 5 5 1 0 4 4 4
+destroy kill V r-hyp-1 3.92 6.53 1.27 4 4 6 4 5 1 4 5 4 4 5 2 3
+trim fit V hyp-2 3.15 5.25 1.87 6 4 4 3 0 5 0 2 1 3 5 5 3
+reprimand scold V syn 5.00 8.33 1.36 6 5 3 6 3 6 6 6 5 6 5 2 6
+erode tease V no-rel 1.00 1.67 1.65 1 3 1 0 0 6 0 0 0 1 2 0 0 0
+recycle waste V cohyp 0.90 1.5 1.81 0 0 0 1 0 0 0 6 0 2
+shine glow V r-hyp-1 3.91 6.52 1.62 6 6 4 4 5 3 3 4 5 3 0
+tow pull V hyp-3 5.18 8.63 0.83 5 4 5 4 6 5 6 6 4 6 6
+divide add V cohyp 0.83 1.38 0.99 1 1 1 0 0 0 2 0 0 0 2 3
+observe tan V no-rel 0.09 0.15 0.29 0 0 0 1 0 0 0 0 0 0 0
+decay erode V r-hyp-1 4.40 7.33 1.28 5 5 6 3 3 3 3 4 6 6
+burst erupt V r-hyp-1 4.20 7.0 1.25 4 5 3 6 6 2 4 5 3 4
+mix integrate V r-hyp-2 4.77 7.95 1.67 6 4 5 2 5 6 3 6 1 6 6 6 6
+shatter break V hyp-2 5.15 8.58 1.41 6 4 5 6 5 6 6 6 1 6 6 6 4
+keep give V hyp-4 0.38 0.63 0.84 0 0 0 0 0 0 0 1 3 0 1 0 0
+smother kill V hyp-1 4.40 7.33 1.96 1 6 6 3 1 6 6 6 5 4
+differ agree V ant 0.77 1.28 1.25 0 0 1 0 3 3 0 3 0 0 0 0 0
+take have V hyp-4 2.17 3.62 1.99 2 4 6 5 4 0 1 1 1 0 2 0
+search examine V hyp-2 4.15 6.92 1.41 6 4 5 5 6 2 4 5 5 4 4 1 3
+reappear show V cohyp 3.38 5.63 1.60 5 5 1 3 5 1 4 5 2 3 1 5 4
+reflect think V hyp-1 4.67 7.78 1.83 6 6 0 4 6 5 5 6 4
+attack remove V no-rel 1.14 1.9 1.55 0 0 0 0 5 1 0 3 3 2 2 0 0 0
+look stretch V no-rel 0.86 1.43 0.64 1 0 2 0 1 1 1
+clarify explain V hyp-1 4.92 8.2 1.73 0 3 5 6 4 4 6 6 6 6 6 6 6
+presume think V hyp-3 4.11 6.85 1.59 2 2 6 3 5 3 4 6 6
+feed starve V ant 0.50 0.83 1.02 2 3 0 0 0 0 0 0 0 0
+whisper talk V hyp-1 5.50 9.17 1.02 6 6 6 6 6 6 4 6 6 3
+cast show V hyp-2 1.80 3.0 2.32 0 1 3 6 6 2 0 0 0 0
+separate split V syn 4.07 6.78 2.22 6 6 4 6 5 6 6 0 3 3 0 6 1 5
+change persuade V r-hyp-3 2.83 4.72 1.91 3 0 3 1 5 6 0 3 3 1 4 5
+accelerate admit V no-rel 0.23 0.38 0.42 0 0 1 0 1 0 0 0 0 0 0 0 1
+reach increase V no-rel 2.07 3.45 1.87 1 4 5 1 5 4 0 2 2 0 1 4 0 0
+grasp hold V hyp-1 5.43 9.05 0.73 6 6 5 5 4 4 5 6 6 6 6 6 5 6
+rationalize argue V hyp-2 3.08 5.13 2.18 1 3 4 1 4 4 0 0 6 6 2 6
+pour spill V cohyp 2.08 3.47 1.38 4 3 3 0 2 1 3 1 5 1 1 1 2
+bother count V no-rel 0.38 0.63 0.84 0 1 0 0 0 0 3 0 0 0 0 0 1
+cook stew V r-hyp-1 1.38 2.3 1.69 3 1 0 1 0 6 0 2 1 0 0 3 1
+blame accuse V cohyp 4.55 7.58 2.02 6 1 4 5 6 0 5 5 6 6 6
+glide float V cohyp 3.11 5.18 2.28 1 6 0 2 5 0 4 6 4
+move stay V ant 0.31 0.52 0.61 0 2 0 1 0 0 0 0 0 0 0 0 1
+take snatch V r-hyp-2 4.55 7.58 1.44 5 6 4 6 6 4 6 2 5 4 2
+hum whistle V cohyp 1.14 1.9 1.60 2 4 2 0 0 5 2 0 0 0 0 0 0 1
+demand request V hyp-1 3.91 6.52 1.38 1 5 4 6 3 5 3 3 3 5 5
+stir turn V cohyp 2.86 4.77 1.96 2 1 0 6 3 3 5
+tease annoy V hyp-3 4.62 7.7 1.27 3 4 6 4 6 4 4 5 6 4 6 2 6
+accelerate build V no-rel 0.57 0.95 0.82 0 0 0 1 1 0 0 1 0 1 1 3 0 0
+overwhelm upset V cohyp 3.64 6.07 1.67 4 5 1 4 4 2 6 3 1 6 4
+elect select V hyp-1 4.75 7.92 1.23 4 3 5 6 5 6 2 5 4 6 6 5
+recommend tell V hyp-3 3.92 6.53 1.44 6 3 3 4 4 6 2 1 4 5 4 5
+beg sip V no-rel 0.45 0.75 1.16 0 0 0 1 0 0 0 0 4 0 0
+pinch touch V hyp-3 4.85 8.08 1.23 4 6 6 3 6 5 3 4 6 6 3 5 6
+destroy taste V no-rel 0.20 0.33 0.40 0 0 0 1 1 0 0 0 0 0
+fade diminish V hyp-2 5.00 8.33 1.08 5 6 6 3 6 6 6 4 5 5 5 3
+blush tan V cohyp 0.42 0.7 0.86 0 3 0 0 0 0 0 1 0 0 1 0
+collect obtain V cohyp 5.00 8.33 1.29 6 5 6 6 6 5 4 2 6 3 6 5
+build break V ant 0.64 1.07 0.89 0 0 0 2 1 0 1 0 1 0 3 0 0 1
+run control V hyp-3 2.91 4.85 2.02 5 2 5 0 3 5 0 0 4 5 3
+capture seize V hyp-1 5.50 9.17 0.65 5 6 6 6 5 5 6 4 6 6 6 5
+travel hitchhike V r-hyp-3 1.38 2.3 1.33 2 4 3 0 2 0 0 0 1 1 3 2 0
+grab touch V hyp-3 4.30 7.17 1.68 1 6 3 3 6 6 5 3 4 6
+glow shine V hyp-1 4.67 7.78 1.70 6 6 1 6 6 5 6 3 5 4 2 6
+remove unload V r-hyp-2 4.17 6.95 1.34 5 5 6 6 3 4 3 3 6 3 2 4
+protect defend V hyp-1 4.70 7.83 1.27 5 5 2 5 6 3 6 5 6 4
+count evaluate V hyp-4 3.67 6.12 2.13 2 5 6 6 3 5 2 6 0 2 1 6
+refuse stop V no-rel 4.00 6.67 2.28 0 0 3 5 6 6 3 6 6 5
+dismiss repress V no-rel 2.83 4.72 2.03 1 6 0 4 6 3 0 3 3 5 2 1
+develop learn V hyp-1 3.17 5.28 1.52 6 0 3 4 2 2 4 4 5 3 3 2
+cook burn V cohyp 2.29 3.82 1.75 4 0 4 1 0 3 4
+ask recall V r-hyp-4 1.50 2.5 1.80 2 6 0 1 3 1 0 0 2 0
+tow tell V no-rel 0.15 0.25 0.36 0 0 0 0 0 0 1 0 0 0 0 0 1
+observe stop V no-rel 0.50 0.83 0.92 0 0 0 0 0 0 0 3 1 1
+retain keep V hyp-3 5.33 8.88 1.03 5 6 6 6 4 6 3 4 6 6 6 6
+chuck toss V syn 4.77 7.95 1.53 2 4 6 5 5 1 6 6 6 6 5 5 5
+keep reserve V r-hyp-3 4.83 8.05 1.34 4 4 6 6 6 6 4 2 6 3 5 6
+humiliate hurt V hyp-1 5.07 8.45 0.59 5 6 5 4 6 5 4 5 5 5 5 5 6 5
+dunk dip V syn 4.38 7.3 1.44 2 5 5 1 5 4 6 5 6 5 5 5 3
+sit lie V ant 1.21 2.02 1.47 2 4 2 0 0 3 4 0 0 1 0 0 0 1
+criticize remark V hyp-2 5.00 8.33 1.13 6 6 5 3 5 3 6 5 6 6 4
+suggest tell V hyp-2 4.11 6.85 1.73 5 3 5 5 5 0 3 6 5
+show unite V no-rel 0.33 0.55 0.67 0 1 0 2 0 0 0 0 0
+recommend advise V hyp-1 4.00 6.67 1.63 6 0 3 6 4 3 5 4 6 3 4 4
+glare reflect V hyp-1 3.62 6.03 2.02 5 1 6 0 4 5 3 3 6 4 5 0 5
+change swap V r-hyp-1 5.50 9.17 0.96 6 6 6 6 6 5 6 3 6 6 6 4
+detach attach V ant 1.00 1.67 1.90 3 0 0 0 0 6 1 0 0 0
+erupt burst V hyp-1 4.00 6.67 1.80 6 3 3 5 3 6 5 6 0 6 3 4 2
+marry unite V hyp-1 4.92 8.2 1.59 0 6 6 6 5 6 4 5 5 6 5 6 4
+pat touch V hyp-2 5.36 8.93 0.88 6 5 6 6 6 6 6 4 4 6 4
+pause break V hyp-2 4.90 8.17 0.94 4 5 5 5 6 6 5 6 3 4
+put give V hyp-4 1.80 3.0 1.08 2 3 1 3 0 2 3 2 0 2
+flip defend V no-rel 0.23 0.38 0.42 0 0 1 0 1 0 0 0 0 0 0 0 1
+receive obtain V syn 5.27 8.78 1.05 6 3 5 6 6 6 6 4 6 4 6
+address stand V no-rel 1.42 2.37 1.19 0 2 0 0 1 1 4 2 1 2 3 1
+acknowledge admit V syn 4.23 7.05 1.80 6 2 0 3 6 5 6 5 2 5 5 5 5
+shiver shake V hyp-2 4.60 7.67 1.43 4 6 4 5 5 6 5 6 4 1
+delay hurry V ant 0.27 0.45 0.62 0 1 0 2 0 0 0 0 0 0 0
+look evaluate V hyp-4 4.50 7.5 1.20 4 6 5 3 6 3 6 3 4 5
+get recruit V r-hyp-4 3.18 5.3 1.34 5 3 4 4 4 0 3 2 2 4 4
+help add V no-rel 0.78 1.3 1.47 0 3 0 4 0 0 0 0 0
+give let V hyp-1 2.54 4.23 1.60 2 1 6 5 4 3 2 2 2 3 1 2 0
+do be V hyp-4 1.75 2.92 2.05 3 6 4 1 0 4 0 0 0 0 0 3
+hit run V cohyp 1.14 1.9 1.51 0 5 0 0 1 1 0 1 3 0 2 3 0 0
+retreat descend V cohyp 2.55 4.25 1.72 6 4 1 2 1 1 2 4 3 4 0
+deny repress V hyp-4 3.73 6.22 1.76 5 2 5 5 3 6 6 3 3 0 3
+swing set V hyp-3 0.62 1.03 1.39 0 0 5 0 0 1 0 0 0 0 0 2 0
+hurt insult V r-hyp-1 3.92 6.53 1.54 0 3 5 5 4 5 4 2 4 6 5 5 3
+take kidnap V r-hyp-2 4.40 7.33 1.91 5 6 6 6 1 6 5 3 1 5
+look glance V r-hyp-1 4.54 7.57 1.91 6 6 5 6 2 6 6 4 2 5 5 6 0
+update inform V hyp-1 3.64 6.07 1.55 5 4 4 6 2 5 4 2 1 2 5
+recall remember V syn 5.23 8.72 1.62 0 6 6 4 6 6 5 6 6 6 6 5 6
+buzz fly V hyp-1 1.92 3.2 1.89 1 0 0 1 3 6 2 0 4 2 0 4
+chew grind V hyp-1 2.46 4.1 2.06 6 2 1 3 0 5 2 5 0 0 5 2 1
+disperse separate V hyp-1 4.27 7.12 1.48 5 1 4 4 3 3 6 6 4 6 5
+take keep V hyp-3 2.57 4.28 1.80 3 2 1 1 1 5 0 2 3 0 5 3 5 5
+pardon persuade V no-rel 1.00 1.67 1.41 1 0 0 1 4 0 0 1 0 1 0 4
+jog run V hyp-1 4.31 7.18 1.90 2 5 4 6 5 2 0 3 6 5 6 6 6
+accelerate increase V hyp-2 5.00 8.33 1.11 4 3 4 6 6 6 6 6 6 6 4 4 4
+educate teach V hyp-1 5.50 9.17 0.92 6 6 6 6 5 6 6 5 3 6
+bend turn V hyp-1 4.25 7.08 1.69 4 6 5 2 6 4 6 4 0 5 5 4
+blame drink V no-rel 0.08 0.13 0.27 0 0 0 0 0 0 0 0 0 0 0 1 0
+blame put V no-rel 0.58 0.97 0.86 1 1 1 0 0 0 3 0 0 0 1 0
+sit lounge V r-hyp-1 3.92 6.53 1.44 2 2 4 5 6 4 4 1 5 6 4 4 4
+decline descend V hyp-2 2.50 4.17 2.33 1 6 0 1 1 5 0 1 4 6
+dismiss go V hyp-4 2.38 3.97 1.73 0 4 6 4 1 2 1 4 1 1 4 1 2
+hesitate wait V hyp-2 4.85 8.08 1.61 5 6 4 6 6 6 5 4 6 5 6 0 4
+stink dismiss V no-rel 0.62 1.03 1.15 0 0 0 0 1 0 0 0 1 2 0 4 0
+get increase V no-rel 2.60 4.33 2.11 5 4 0 4 6 3 1 0 3 0
+allow accept V hyp-1 4.00 6.67 1.77 3 5 6 1 5 5 0 3 5 3 6 4 4 6
+fail operate V no-rel 0.73 1.22 1.42 5 0 0 1 0 0 1 0 1 0 0
+give take V ant 0.93 1.55 1.03 0 2 0 1 1 1 0 1 3 0 1 3 0 0
+hamper hold V hyp-2 2.00 3.33 1.80 6 3 0 3 1 2 4 0 3 0 0 3 1
+smash destroy V hyp-1 5.25 8.75 0.92 3 5 6 6 5 6 5 6 4 6 6 5
+disintegrate burn V cohyp 3.25 5.42 2.17 6 0 5 5 1 5 4 3 1 3 6 0
+climb descend V ant 0.70 1.17 1.27 0 0 0 1 4 0 0 0 2 0
+pull tug V r-hyp-1 4.00 6.67 1.62 3 3 5 1 6 4 6 6 4 3 3 6 2
+hold wait V hyp-3 3.67 6.12 1.60 5 0 4 3 6 4 5 4 1 4 4 4
+claim say V hyp-3 2.71 4.52 2.25 1 0 0 6 4 3 5
+crave desire V hyp-1 4.85 8.08 1.17 4 6 6 5 5 4 6 6 5 6 4 2 4
+flee run V hyp-1 4.75 7.92 1.48 6 5 6 6 3 4 4 1 6 5 6 5
+refuse deny V r-hyp-2 4.54 7.57 1.91 0 5 5 3 6 1 6 6 5 6 6 5 5
+hate reflect V no-rel 2.50 4.17 1.80 1 3 4 0 5 3 0 4 3 2 0 5
+recall ask V hyp-4 2.40 4.0 2.24 1 0 6 1 5 0 2 1 2 6
+move hustle V r-hyp-1 2.70 4.5 2.37 6 0 1 6 1 3 0 3 6 1
+give send V hyp-3 3.92 6.53 1.50 4 4 4 6 6 4 3 2 6 4 3 1
+return send V hyp-3 3.00 5.0 2.17 3 6 5 1 0 5 0 3 1 6 3
+invent make V hyp-2 4.29 7.15 1.91 6 4 2 1 5 6 6
+haul carry V hyp-1 5.10 8.5 1.22 4 6 6 6 6 5 2 6 5 5
+insult hurt V hyp-1 5.50 9.17 0.65 6 6 6 6 6 5 6 5 5 4 6 5
+strike blow V cohyp 4.45 7.42 2.19 6 0 6 6 6 6 5 0 5 5 4
+warn advise V hyp-1 5.75 9.58 0.43 6 6 6 6 6 6 6 5 5 5 6 6
+think suspect V r-hyp-4 2.50 4.17 2.25 4 4 5 0 6 0 2 0 4 0
+explain express V hyp-2 3.92 6.53 1.49 3 6 2 2 3 6 4 3 5 4 2 6 5
+admit deny V ant 0.79 1.32 1.57 0 0 0 2 1 0 0 6 0 0 1 0 0 1
+ask beg V cohyp 2.69 4.48 1.38 6 4 2 1 3 1 2 1 3 3 2 4 3
+blow annihilate V no-rel 2.23 3.72 1.12 1 2 1 2 2 2 3 5 3 3 1 1 3
+touch grab V r-hyp-3 2.77 4.62 1.62 2 3 2 2 4 2 4 0 0 4 3 6 4
+prohibit disallow V syn 5.00 8.33 1.18 4 6 6 6 5 5 2 6 5 5
+ride walk V ant 0.85 1.42 1.03 0 0 3 0 1 1 3 0 1 0 1 0 1
+abuse mistreat V syn 5.30 8.83 0.90 3 6 6 5 5 5 6 6 5 6
+ascend leave V cohyp 1.08 1.8 1.61 1 0 1 0 6 0 0 2 1 0 1 1
+aim direct V r-hyp-1 5.00 8.33 1.15 6 5 6 6 6 4 3 4 6 5 6 3
+sell buy V ant 0.92 1.53 1.69 2 0 0 0 0 2 0 0 0 0 0 6 2
+munch chew V hyp-1 4.18 6.97 1.99 6 2 6 5 3 6 0 6 5 5 2
+knock rap V hyp-1 4.00 6.67 1.91 3 4 6 5 0 6 4 1 6 4 3 6
+observe watch V hyp-1 5.15 8.58 1.29 6 6 6 6 3 6 6 4 5 5 6 6 2
+fade vanish V hyp-1 4.46 7.43 1.74 1 6 6 3 6 4 4 5 6 5 5 1 6
+renounce shake V no-rel 1.10 1.83 1.64 0 3 0 0 2 5 1 0 0 0
+embrace hold V hyp-3 5.10 8.5 1.14 4 6 6 6 4 3 6 6 4 6
+bury cover V cohyp 3.54 5.9 2.13 0 4 5 3 5 6 5 0 0 4 3 6 5
+hitchhike call V no-rel 0.92 1.53 1.44 0 0 1 1 3 0 0 0 0 1 1 5 0
+advise teach V cohyp 4.50 7.5 1.26 5 6 3 6 3 4 6 5 2 5 4 5
+erode decay V hyp-1 5.08 8.47 1.04 6 3 6 6 6 6 5 4 4 4 6 5
+add multiply V cohyp 0.73 1.22 1.21 0 0 1 1 2 0 0 4 0 0 0
+stop begin V ant 0.23 0.38 0.58 0 0 0 0 0 0 0 0 0 0 0 2 1
+reserve hold V hyp-4 4.73 7.88 1.29 6 6 3 6 6 3 5 3 4 6 4
+lean lay V hyp-1 1.50 2.5 1.57 0 4 0 0 4 1 0 2 3 1
+speak knock V no-rel 0.58 0.97 1.38 0 0 0 0 1 0 0 0 5 1 0 0
+inspect search V cohyp 3.80 6.33 1.83 2 5 5 4 6 1 5 3 6 1
+bother tease V r-hyp-3 1.91 3.18 1.62 3 0 1 1 0 4 3 4 4 1 0
+strike miss V ant 1.57 2.62 2.06 0 1 2 6 0 6 2 3 0 0 0 0 2 0
+shake shiver V r-hyp-2 3.27 5.45 1.71 3 6 4 2 6 2 3 4 4 2 0
+direct aim V hyp-1 3.40 5.67 1.96 1 3 6 5 0 6 2 3 5 3
+erode deteriorate V cohyp 4.42 7.37 1.93 4 6 6 6 2 3 6 0 6 5 6 3
+slide move V hyp-1 5.08 8.47 1.32 6 6 6 4 5 3 6 6 5 6 6 2
+tote carry V hyp-1 2.55 4.25 2.68 6 0 0 6 0 6 0 4 1 0 5
+announce say V hyp-1 4.55 7.58 1.83 6 2 5 6 6 5 0 5 4 5 6
+rub wipe V r-hyp-1 5.17 8.62 0.99 5 6 6 3 6 5 6 4 5 6 6 4
+move unload V r-hyp-4 2.17 3.62 1.82 5 0 2 1 1 3 5 0 1 2 5 1
+calculate deliver V no-rel 0.70 1.17 1.00 3 0 1 0 0 0 0 1 0 2
+deny refuse V hyp-2 5.15 8.58 1.56 0 5 6 6 5 6 6 5 6 6 5 5 6
+inform update V r-hyp-1 3.80 6.33 1.54 6 4 2 5 5 2 3 3 6 2
+annihilate kill V hyp-1 5.00 8.33 1.04 4 6 5 6 4 4 6 3 6 5 6
+collect spin V no-rel 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+pray communicate V hyp-2 2.90 4.83 2.12 3 4 1 5 0 6 1 2 6 1
+control hold V r-hyp-3 2.67 4.45 1.76 3 3 0 3 2 3 0 6 4
+delay show V no-rel 0.09 0.15 0.29 0 0 0 0 0 0 0 0 0 1 0
+accept deny V ant 0.55 0.92 1.16 1 1 0 0 0 0 0 0 0 4 0
+argue rationalize V r-hyp-2 2.67 4.45 1.84 3 4 3 6 3 1 2 1 6 1 2 0
+magnify increase V hyp-3 4.17 6.95 1.46 6 1 5 6 5 2 5 4 4 3 5 4
+split tear V hyp-1 3.70 6.17 2.53 6 5 6 4 6 0 6 0 4 0
+laugh cry V ant 0.62 1.03 1.39 0 0 0 0 2 0 0 0 0 0 0 5 1
+spin turn V hyp-2 5.00 8.33 1.34 6 3 5 6 5 2 6 6 6 5
+break shatter V r-hyp-2 3.33 5.55 2.13 6 6 2 5 2 5 2 6 0 0 3 3
+transplant move V hyp-2 5.08 8.47 0.86 5 6 6 5 6 4 4 4 6 6 5 4
+allow return V no-rel 1.08 1.8 1.26 1 0 3 3 0 0 1 0 0 0 3 2
+leave control V no-rel 1.07 1.78 1.58 0 0 0 1 1 0 1 6 0 2 2 0 2 0
+pretend dunk V no-rel 0.18 0.3 0.39 1 1 0 0 0 0 0 0 0 0 0
+understand accept V hyp-2 2.45 4.08 1.37 1 3 3 4 4 3 3 1 0 1 4
+glance stare V cohyp 2.10 3.5 1.58 2 1 1 3 1 6 2 3 2 0
+suspect think V hyp-4 2.80 4.67 1.94 1 4 6 3 0 0 2 3 4 5
+hitchhike travel V hyp-3 4.00 6.67 2.04 6 6 5 6 4 4 4 2 6 1 0
+evaluate reflect V no-rel 4.08 6.8 1.54 0 5 6 3 5 6 3 4 4 3 5 5 4
+swear promise V hyp-3 4.85 8.08 1.29 5 6 4 6 2 4 6 5 6 3 4 6 6
+subtract multiply V cohyp 0.69 1.15 0.82 0 1 0 0 0 2 0 2 1 0 0 2 1
+swim run V cohyp 0.55 0.92 0.99 0 0 0 1 0 0 0 0 2 0 3
+operate control V hyp-3 5.50 9.17 1.12 6 6 6 5 6 6 6 5 6 6 6 2
+stretch pull V hyp-1 4.07 6.78 1.10 4 5 3 2 3 4 4 6 5 3 5 3 5 5
+reject deny V r-hyp-2 4.40 7.33 1.62 5 6 3 6 6 2 2 6 5 3
+build create V hyp-1 5.21 8.68 0.94 6 6 5 4 3 6 4 6 6 6 5 5 5 6
+tell testify V r-hyp-2 4.09 6.82 2.02 6 6 3 5 1 3 0 6 6 4 5
+snooze nap V hyp-1 4.69 7.82 1.07 4 5 6 6 6 4 3 4 5 5 6 4 3
+flush rinse V hyp-1 3.64 6.07 1.92 6 6 4 5 5 3 2 1 5 3 0
+admit buy V no-rel 0.27 0.45 0.62 0 2 0 0 0 0 0 0 0 1 0
+crunch break V hyp-4 4.75 7.92 1.36 6 5 6 6 3 6 4 2 6 3 5 5
+reserve keep V hyp-3 4.09 6.82 1.98 5 6 4 5 2 6 6 6 2 3 0
+look squint V r-hyp-1 2.17 3.62 2.23 0 4 3 6 0 3 6 0 0 0 1 3
+rearrange move V hyp-3 4.83 8.05 1.21 5 6 5 2 5 4 6 6 5 6 5 3
+kill smother V r-hyp-1 1.42 2.37 1.66 6 1 1 2 0 1 2 0 0 0 1 3
+testify tell V hyp-2 4.58 7.63 1.26 5 5 5 4 5 4 6 5 1 6 5 4
+talk debate V r-hyp-2 4.00 6.67 1.65 1 2 5 3 5 4 4 6 6 6 4 4 1 5
+desire separate V no-rel 0.17 0.28 0.37 1 0 0 0 1 0 0 0 0 0 0 0
+sip drink V hyp-1 4.92 8.2 1.38 6 4 5 6 6 6 1 5 6 4 5 5
+release hold V ant 1.38 2.3 1.82 1 3 2 3 3 0 0 0 0 0 6 0 0
+swap change V hyp-1 4.17 6.95 1.46 5 6 4 4 1 3 6 3 3 6 5 4
+pull tow V r-hyp-3 3.36 5.6 2.19 6 0 3 6 2 5 1 0 5 5 4
+renounce defeat V r-hyp-4 2.46 4.1 1.87 4 3 0 2 1 2 4 3 0 2 0 6 5
+tow move V hyp-4 4.42 7.37 1.04 6 4 5 6 3 3 4 3 5 4 5 5
+unite divide V ant 1.00 1.67 1.61 0 0 0 0 0 1 5 3 0 1
+bump grind V cohyp 1.00 1.67 1.18 0 1 3 0 2 2 0 0 0 0 3 0 2
+assume judge V hyp-2 3.69 6.15 1.73 0 2 6 5 5 4 4 2 5 6 2 4 3
+descend create V no-rel 1.10 1.83 1.87 0 0 1 0 3 0 0 1 0 6
+hold control V hyp-3 2.45 4.08 1.97 5 2 4 5 2 5 3 0 0 1 0
+veer turn V hyp-1 4.38 7.3 1.90 0 6 4 6 3 5 6 5 4 6 6 5 1
+dive swim V hyp-1 4.15 6.92 1.29 6 4 6 4 3 3 4 5 6 3 3 5 2
+borrow bother V no-rel 0.77 1.28 0.80 1 1 0 0 1 1 0 0 1 1 1 3 0
+appear happen V hyp-2 1.46 2.43 1.60 4 1 0 0 1 0 1 0 1 3 4 4 0
+wait seize V no-rel 0.23 0.38 0.42 1 0 1 0 0 0 0 0 0 0 0 0 1
+frustrate irritate V hyp-2 4.62 7.7 1.73 0 4 6 6 6 4 5 5 6 3 6 3 6
+acknowledge ignore V ant 0.50 0.83 0.92 0 0 3 0 0 0 1 1 0 0
+accept restore V no-rel 0.69 1.15 1.14 2 1 1 0 4 0 0 0 0 0 0 0 1
+persuade change V hyp-3 4.44 7.4 1.26 4 3 6 5 4 2 5 6 5
+urge suggest V hyp-1 3.77 6.28 1.48 6 2 4 5 4 2 3 6 6 3 3 2 3
+exercise work V hyp-3 3.00 5.0 1.86 0 1 2 6 2 3 3 2 3 6 5
+catch capture V syn 3.91 6.52 2.23 6 6 0 5 0 3 6 6 4 2 5
+squint look V hyp-1 4.69 7.82 1.07 4 3 6 4 5 4 3 5 6 6 4 6 5
+describe explain V hyp-4 4.30 7.17 2.28 4 5 6 6 6 6 4 0 6 0
+urge tell V hyp-3 2.60 4.33 1.62 2 4 4 0 3 5 2 4 0 2
+unload remove V hyp-2 4.45 7.42 1.16 5 3 3 6 6 4 5 4 6 4 3
+develop make V hyp-2 4.46 7.43 1.45 4 5 5 4 5 6 2 4 6 6 5 1 5
+dominate control V hyp-1 4.46 7.43 1.45 4 5 1 2 5 4 6 6 5 4 6 5 5
+show tell V hyp-3 2.64 4.4 1.92 4 4 0 3 0 4 6 2 4 0 2
+vanish fade V r-hyp-1 4.15 6.92 1.10 5 5 5 4 6 4 5 4 5 3 2 3 3
+break explain V no-rel 0.54 0.9 1.34 0 0 0 5 0 1 0 0 0 0 0 0 1
+talk advise V r-hyp-3 3.54 5.9 1.74 2 3 4 4 6 6 5 1 3 1 2 6 3
+design draw V cohyp 3.38 5.63 1.60 3 4 6 3 4 0 4 3 3 1 6 3 4
+deteriorate forget V no-rel 2.31 3.85 1.59 4 0 0 0 3 1 3 4 4 1 3 4 3
+gulp swallow V cohyp 5.43 9.05 1.05 6 6 6 6 5 3 6
+learn judge V no-rel 0.77 1.28 1.12 1 0 3 1 0 0 0 0 0 0 2 0 3
+scramble mix V cohyp 4.46 7.43 1.45 6 6 5 4 3 6 5 3 4 4 5 6 1
+add subtract V ant 0.46 0.77 0.63 1 0 1 0 1 0 2 0 0 0 0 0 1
+detach separate V hyp-2 4.91 8.18 1.88 6 6 1 6 1 5 6 6 6 6 5
+shift change V hyp-1 5.09 8.48 0.90 4 5 5 6 5 6 6 3 5 5 6
+giggle laugh V hyp-1 5.18 8.63 1.19 6 6 2 5 5 6 4 6 5 6 6
+invent create V hyp-2 5.64 9.4 0.64 5 6 6 6 6 6 6 4 5 6 6
+succeed fail V ant 0.46 0.77 0.75 2 0 0 0 0 2 0 0 0 1 0 1 0
+restore break V cohyp 0.38 0.63 0.74 2 0 0 0 0 2 0 0 0 0 0 1 0
+unload move V hyp-4 3.73 6.22 1.86 5 2 1 3 2 6 5 6 5 1 5
+wipe catch V no-rel 0.45 0.75 0.66 1 0 0 1 0 0 2 0 1 0 0
+sway move V hyp-2 4.77 7.95 1.89 3 5 4 2 6 0 6 6 6 6 6 6 6
+erupt explode V hyp-1 4.69 7.82 1.26 5 6 5 5 2 6 5 4 5 5 5 6 2
+compute calculate V syn 5.00 8.33 1.57 0 6 5 5 6 6 6 5 5 6 4 6 5
+allow attach V no-rel 1.00 1.67 0.91 3 0 0 1 2 0 1 1 0 1 1 2
+swallow sell V no-rel 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+reap gain V hyp-1 3.92 6.53 1.89 5 0 5 6 6 0 4 4 5 4 4 4
+mix compound V hyp-1 3.00 5.0 2.20 0 5 0 1 5 0 3 6 2 6 1 5 4 4
+hug hold V hyp-3 5.23 8.72 1.31 5 6 6 2 6 6 3 4 6 6 6 6 6
+throw toss V r-hyp-2 4.70 7.83 1.85 6 1 6 6 2 3 6 5 6 6
+separate divide V syn 5.15 8.58 1.29 4 2 6 5 6 6 6 6 5 6 6 3 6
+touch pinch V r-hyp-3 1.31 2.18 1.59 0 1 2 0 0 4 0 4 0 0 0 3 3
+educate inform V hyp-2 4.77 7.95 1.31 4 6 2 6 6 6 6 4 4 5 6 4 3
+pull push V ant 0.54 0.9 0.93 3 0 1 0 0 0 2 0 0 0 0 0 1
+set swing V r-hyp-3 0.83 1.38 1.21 0 0 3 0 3 0 0 2 2 0 0 0
+bother affect V hyp-1 4.17 6.95 1.82 5 5 3 6 6 3 6 1 6 3 5 1
+tug pull V hyp-1 4.77 7.95 1.37 6 5 6 6 3 2 3 4 6 6 5 6 4
+console comfort V syn 5.71 9.52 0.70 6 4 6 6 6 6 6
+kill destroy V hyp-1 5.17 8.62 0.99 5 6 6 6 6 6 4 5 4 3 5 6
+hide develop V no-rel 0.20 0.33 0.40 0 0 0 0 1 0 1 0 0 0
+hold hug V r-hyp-3 3.75 6.25 1.59 4 0 5 2 3 3 4 5 5 5 6 3
+tell recommend V r-hyp-3 2.83 4.72 1.91 4 2 6 3 6 0 2 2 1 2 1 5
+hold hamper V r-hyp-2 1.46 2.43 2.06 0 1 2 0 0 4 0 5 0 6 0 1 0
+flip jump V cohyp 3.60 6.0 2.15 4 6 6 4 0 6 2 0 4 4
+tell suggest V r-hyp-2 3.29 5.48 1.79 1 4 5 1 5 5 0 3 2 2 4 3 5 6
