@@ -1,6 +1,8 @@
 # Reproducibility_study_nlp
 
-In this project we reproduced the results of the paper "No clues, good clues: Out of context Lexical Relation Classification" [1]. This research focuses on the use of pre‐trained language models (PTLMs) for lexical relation tasks in Natural Language Processing (NLP).
+Bonafini Marco - Bandera Calliope
+
+In this project we reproduced the results of the paper "No clues, good clues: Out of context Lexical Relation Classification" [link](https://aclanthology.org/2023.acl-long.308). This research focuses on the use of pre‐trained language models (PTLMs) for lexical relation tasks in Natural Language Processing (NLP).
 
 # Lexical Relation Classification and graded Lexical Entailment
 
