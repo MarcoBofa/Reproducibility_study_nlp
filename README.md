@@ -51,24 +51,20 @@ The ''graded'' versions of the scripts, `gradedLE_train_evaluate.py` and `masked
 
 Once the scripts are run, you get a set of results files like the ones in the `results` folder (due to space limitations, our results can be downloaded running the `results_processing.ypnb` notebook). To process these results files, it can be used the notebook `results_processing.ipynb` to collect all the results.
 
+The section on gradedLE and the section on LRC that use the CogALexV unfortunately do not work.
+
 ### **Section 5.2 in the paper: Error analysis**
 
-We performed an error analysis of the results over the CogALexV and EVALution datasets. For this error analysis the metadata files are needed:
+This parte is included just for completeness but does not actually work.
+
+We tried to perform an error analysis of the results over the CogALexV and EVALution datasets. For this error analysis the metadata files are needed:
 
 - For CogAlexV: `datasests/CogALexV/relata_metadata.txt` and `datasests/CogALexV/pairs_metadata.txt`.
 - For EVALution: `datasests/EVALution/EVALUTION_RELATA.txt` and `datasests/EVALution/EVALUTION_RELATIONS.txt`.
 
 These files contains the POS, domain, prototipically value needed to perform the error analysis.
 
-Use the notebook `error_analysis.ipynb`.
-
-### **Section 5.3 in the paper: Embedding Projection Visualization**
-
-To control del learning process of the network we visualize the model embeddings by layers and epochs. The script to retrieve the processed embeddings for the visualization is `embedding_visualization.ipynb`.
-
-Inputs for the script are the desired checkpoints downloaded from `notebooks/lrc_train_evaluate_launcher.ipynb` and `notebooks/masked_lrc_train_evaluate_launcher.ipynb`. The outputs are: a `visualization_metadata.tsv` file and a `visualization_tensors.tsv` file.
-
-Due to RAM limitations in Google Collab, there is a limited number of examples (400) one can process a a time.
+This parte uses the notebook `error_analysis.ipynb`.
 
 ## **Summary of the results**
 
