@@ -51,11 +51,11 @@ The ''graded'' versions of the scripts, `gradedLE_train_evaluate.py` and `masked
 
 Once the scripts are run, you get a set of results files like the ones in the `results` folder (due to space limitations, our results can be downloaded running the `results_processing.ypnb` notebook). To process these results files, it can be used the notebook `results_processing.ipynb` to collect all the results.
 
-The section on gradedLE and the section on LRC that use the CogALexV unfortunately do not work.
+The section on gradedLE and the section on LRC that use the CogALexV dataset unfortunately do not work.
 
 ### **Section 5.2 in the paper: Error analysis**
 
-This parte is included just for completeness but does not actually work.
+This part is included just for completeness but does not actually work.
 
 We tried to perform an error analysis of the results over the CogALexV and EVALution datasets. For this error analysis the metadata files are needed:
 
